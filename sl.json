@@ -85,6 +85,7 @@
   "Email already registered. Add external login on profile page or restore password if unable to login.": "E-pošta je že registrirana. Izberite drugačen način za prijavo na stran profila ali obnovite geslo, če se ne morete prijaviti.",
   "External logins": "Zunanje prijave",
   "Features": "Lastnosti",
+  "Fixed board number": "Fiksna številka table",
   "For month": "Za mesec",
   "For year": "Za leto",
   "Forbidden Pairs": "Prepovedani pari",
