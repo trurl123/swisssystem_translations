@@ -50,6 +50,7 @@
   "Copy settings and players to new tournament": "Копировать настройки и игроков в новый турнир",
   "Could not add more players": "Невозможно добавлять игроков",
   "Could not find pairs for the next round": "Невозможно составить пары на следующий тур",
+  "Could not generate a round with the external pairing engine. The internal algorithm was used instead.": "Не удалось сгенерировать тур с помощью внешнего движка жеребьёвки. Вместо него использован внутренний алгоритм.",
   "Could not remove players": "Невозможно удалить игроков",
   "Could not set bye": "Невозможно установить пропуск игры",
   "Could not set equal points in elimination system": "Невозможно установить одинаковые результаты в системе с выбыванием",

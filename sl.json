@@ -50,6 +50,7 @@
   "Copy settings and players to new tournament": "Kopiraj nastavitve in igralce za nov turnir",
   "Could not add more players": "Ni možno dodati več igralcev",
   "Could not find pairs for the next round": "Ni možno najti parov za naslednji krog",
+  "Could not generate a round with the external pairing engine. The internal algorithm was used instead.": "Kroga ni bilo mogoče ustvariti z zunanjim mehanizmom za razvrščanje. Namesto tega je bil uporabljen notranji algoritem.",
   "Could not remove players": "Ni moč odstraniti igralcev",
   "Could not set bye": "Ni možno nastaviti prostega igralca",
   "Could not set equal points in elimination system": "Ni možno nastaviti enake točke v izločilnem sistemu",

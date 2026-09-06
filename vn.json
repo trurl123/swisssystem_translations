@@ -50,6 +50,7 @@
   "Copy settings and players to new tournament": "Nhân bản các cài đặt và những người chơi sang giải đấu mới",
   "Could not add more players": "Không thể thêm người chơi nữa",
   "Could not find pairs for the next round": "Không thể tìm thấy (các) cặp đấu cho vòng tiếp theo",
+  "Could not generate a round with the external pairing engine. The internal algorithm was used instead.": "Không thể tạo vòng đấu bằng công cụ ghép cặp bên ngoài. Thay vào đó, thuật toán nội bộ đã được sử dụng.",
   "Could not remove players": "Không thể xóa (những) người chơi",
   "Could not set bye": "Không thể gắn miễn đấu",
   "Could not set equal points in elimination system": "Không thể đặt điểm bằng nhau trong hệ thống đấu loại trực tiếp",

@@ -59,6 +59,7 @@
   "Copy settings and players to new tournament": "Copie as configurações e os jogadores para um novo torneio",
   "Could not add more players": "Não foi possível adicionar mais jogadores",
   "Could not find pairs for the next round": "Não foi possível encontrar pares para a próxima rodada",
+  "Could not generate a round with the external pairing engine. The internal algorithm was used instead.": "Não foi possível gerar a rodada com o mecanismo de emparelhamento externo. Em vez disso, foi utilizado o algoritmo interno.",
   "Could not remove players": "Não foi possível remover jogadores",
   "Could not set bye": "Não foi possível definir bye",
   "Could not set equal points in elimination system": "Não é possível definir pontos iguais no sistema de eliminação",
