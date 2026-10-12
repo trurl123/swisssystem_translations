@@ -41,6 +41,7 @@
   "Select columns to export": "Chọn cột để xuất",
   "Export": "Xuất",
   "Export TRF": "Xuất TRF",
+  "Export TRF failed": "Không thể xuất TRF",
   "Import TRF": "Nhập TRF",
   "Invalid TRF file": "Tệp TRF không hợp lệ",
   "Tournament imported successfully": "Nhập giải đấu thành công",

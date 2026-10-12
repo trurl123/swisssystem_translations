@@ -41,6 +41,7 @@
   "Select columns to export": "Выберите колонки для экспорта",
   "Export": "Экспортировать",
   "Export TRF": "Экспорт TRF",
+  "Export TRF failed": "Не удалось экспортировать TRF",
   "Import TRF": "Импорт TRF",
   "Invalid TRF file": "Недопустимый файл TRF",
   "Tournament imported successfully": "Турнир успешно импортирован",

@@ -37,6 +37,7 @@
   "Select columns to export": "Spalten für den Export auswählen",
   "Export": "Exportieren",
   "Export TRF": "TRF exportieren",
+  "Export TRF failed": "TRF konnte nicht exportiert werden",
   "Import TRF": "TRF importieren",
   "Invalid TRF file": "Ungültige TRF-Datei",
   "Tournament imported successfully": "Turnier erfolgreich importiert",

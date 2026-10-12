@@ -41,6 +41,7 @@
   "Select columns to export": "Odaberite stupce za izvoz",
   "Export": "Izvezi",
   "Export TRF": "Izvezi TRF",
+  "Export TRF failed": "Neuspješan izvoz TRF-a",
   "Import TRF": "Uvezi TRF",
   "Invalid TRF file": "Neispravna TRF datoteka",
   "Tournament imported successfully": "Turnir uspješno uvezen",
