@@ -199,6 +199,8 @@
   "Password mismatch": "No hay coincidencia de contraseñas",
   "Pay for the next period": "Pague por el próximo período",
   "Payment Failed": "Pago Fallido",
+  "Payment method": "Método de pago",
+  "Payment method is unavailable": "El método de pago seleccionado no está disponible",
   "Payment Successful": "Pago exitoso",
   "Performance": "Rendimiento",
   "Personal Data": "Datos Personales",

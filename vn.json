@@ -149,6 +149,8 @@
   "Password": "Mật khẩu",
   "Pay for the next period": "Thanh toán cho kỳ sau",
   "Payment Failed": "Thanh toán Thất bại",
+  "Payment method": "Phương thức thanh toán",
+  "Payment method is unavailable": "Phương thức thanh toán đã chọn không khả dụng",
   "Payment Successful": "Thanh toán Thành công",
   "Performance": "Hiệu suất",
   "Personal Data": "Thông tin cá nhân",

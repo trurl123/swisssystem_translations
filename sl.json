@@ -149,6 +149,8 @@
   "Password": "Geslo",
   "Pay for the next period": "Plačajte za naslednje obdobje",
   "Payment Failed": "Plačilo ni uspelo",
+  "Payment method": "Način plačila",
+  "Payment method is unavailable": "Izbrani način plačila ni na voljo",
   "Payment Successful": "Plačilo uspešno",
   "Performance": "Učinkovitost",
   "Personal Data": "Osebni podatki",

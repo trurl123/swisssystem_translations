@@ -141,6 +141,8 @@
   "Password": "Passwort",
   "Pay for the next period": "Bezahlen Sie für die nächste Periode",
   "Payment Failed": "Zahlung fehlgeschlagen",
+  "Payment method": "Zahlungsart",
+  "Payment method is unavailable": "Die ausgewählte Zahlungsart ist nicht verfügbar",
   "Payment Successful": "Zahlung erfolgreich",
   "Performance": "Leistung",
   "Personal Data": "Personaldaten",
