@@ -272,6 +272,7 @@
   "Solana network address:": "Адрес в сети Solana:",
   "Write a message with the required information: email used on the site, price plan and period. Use": "Напишите сообщение с необходимой информацией: email, использованный на сайте, тариф и период. Используйте",
   "Telegram": "Telegram",
+  "Log in with Telegram": "Войти через Telegram",
   "email": "email",
   "Payment will be confirmed.": "Платёж будет подтверждён.",
   "If you are in a hurry, you can ask to register the payment in advance before sending USDTs.": "Если вы торопитесь, можно попросить зарегистрировать платёж заранее, до отправки USDT.",
