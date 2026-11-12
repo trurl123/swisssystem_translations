@@ -152,6 +152,7 @@
   "Payment method": "Phương thức thanh toán",
   "Available in select countries.": "Chỉ khả dụng ở một số quốc gia.",
   "Bank card or USDT": "Thẻ ngân hàng hoặc USDT",
+  "Telegram authorization is required to register subscription creation and renewals.": "Cần xác thực Telegram để tự động ghi nhận việc tạo và gia hạn gói đăng ký.",
   "Payment method is unavailable": "Phương thức thanh toán đã chọn không khả dụng",
   "Payment Successful": "Thanh toán Thành công",
   "Performance": "Hiệu suất",

@@ -202,6 +202,7 @@
   "Payment method": "Método de pago",
   "Available in select countries.": "Disponible solo en algunos países.",
   "Bank card or USDT": "Tarjeta bancaria o USDT",
+  "Telegram authorization is required to register subscription creation and renewals.": "Se requiere autorización de Telegram para registrar automáticamente la creación y las renovaciones de la suscripción.",
   "Payment method is unavailable": "El método de pago seleccionado no está disponible",
   "Payment Successful": "Pago exitoso",
   "Performance": "Rendimiento",

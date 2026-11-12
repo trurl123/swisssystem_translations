@@ -152,6 +152,7 @@
   "Payment method": "Način plačila",
   "Available in select countries.": "Na voljo samo v nekaterih državah.",
   "Bank card or USDT": "Bančna kartica ali USDT",
+  "Telegram authorization is required to register subscription creation and renewals.": "Za samodejno registracijo sklenitve in podaljšanj naročnine je potrebna avtorizacija Telegrama.",
   "Payment method is unavailable": "Izbrani način plačila ni na voljo",
   "Payment Successful": "Plačilo uspešno",
   "Performance": "Učinkovitost",

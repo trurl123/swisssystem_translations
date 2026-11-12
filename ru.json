@@ -152,6 +152,7 @@
   "Payment method": "Способ оплаты",
   "Available in select countries.": "Сервис работает не во всех странах.",
   "Bank card or USDT": "Банковская карта или USDT",
+  "Telegram authorization is required to register subscription creation and renewals.": "Для автоматической регистрации создания и продления подписки требуется авторизация через Telegram.",
   "Payment method is unavailable": "Выбранный способ оплаты недоступен",
   "Payment Successful": "Платеж прошел успешно",
   "Performance": "Производительность",
